@@ -4,7 +4,7 @@
 &nbsp;
 
 ## What I am pursuing: 
-- M.S. in Quantum Information Science at Indiana University-Bloomington 
+- PhD in Physics at Indiana University-Bloomington 
 
 ## Current Research Interests 
  - Quantum Simulation 
