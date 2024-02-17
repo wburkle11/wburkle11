@@ -8,6 +8,6 @@
 
 ## Current Research Interests 
  - Quantum Simulation 
- - Quantum Computation and Machine Learning 
+ - Quantum Communication  
  - Trapped Ions 
  
