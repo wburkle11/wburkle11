@@ -1,4 +1,4 @@
-# Hello! My name is Thomas Burkle :atom:  
+# :electron: Hello! My name is Thomas Burkle :atom: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/twburkle)
 &nbsp;
